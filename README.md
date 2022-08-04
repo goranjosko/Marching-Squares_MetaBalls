@@ -7,3 +7,6 @@ This optimized version finds only the edges of the spheres and then draws the me
 
 To start animation, the p5.js processing library is necessary, which can be downloaded for free from https://p5js.org/download/
 **p5.min.js should be added to the same directory**
+
+
+Working example: https://bit.ly/3oT3OF1
