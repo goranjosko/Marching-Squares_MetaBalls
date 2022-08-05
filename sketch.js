@@ -73,8 +73,6 @@ class marchingSq {
         this.nodes = {};
         this.start_square = { 'start_dot_number': 0, 'start_xy': [0, 0] };
         this.mballs(this.n_balls)
-        this.that = this.linearY(10, 20, 30, 40)
-        // this.linearY;
     }
 
     mballs(n_balls) {
